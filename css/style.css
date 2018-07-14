@@ -343,8 +343,8 @@ ul#menu-main > li > a:focus {
 #header-wrapper {
 	width: 80%;
 	min-height: 300px;
-	margin-top: -60px;
-	padding-top:150px;
+	margin-top: -50px;
+	padding-top:130px;
 	text-align:center;
 }
 
