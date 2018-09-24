@@ -958,10 +958,10 @@
     position: static;
   }
   .navbar-fixed-top {
-    margin-bottom: 20px;
+    margin-bottom: 15px;
   }
   .navbar-fixed-bottom {
-    margin-top: 20px;
+    margin-top: 15px;
   }
   .navbar-fixed-top .navbar-inner,
   .navbar-fixed-bottom .navbar-inner {
