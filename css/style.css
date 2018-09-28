@@ -341,7 +341,7 @@ ul#menu-main > li > a:focus {
 /* === section header === */
 
 #header-wrapper {
-	width: 85%;
+	width: 100%;
 	min-height: 700px;
 	margin-top: -60px;
 	padding-top:100px;
