@@ -341,10 +341,10 @@ ul#menu-main > li > a:focus {
 /* === section header === */
 
 #header-wrapper {
-	width: 100%;
+	width: 85%;
 	min-height: 700px;
 	margin-top: -60px;
-	padding-top:160px;
+	padding-top:100px;
 	text-align:center;
 }
 
@@ -379,7 +379,7 @@ header .logo {
 }
 
 #main-flexslider ul.slides li p {
-	font-size: 65px;
+	font-size: 72px;
 	text-transform: uppercase;
 	position: relative;
 	margin-bottom: 0px;
